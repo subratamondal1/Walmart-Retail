@@ -30,6 +30,7 @@ ___
 Show the average sales, profit, discount.
 ```
 <img width="1229" alt="Avg Sales, Profit, Discount" src="https://user-images.githubusercontent.com/60319087/154794790-d2559fd9-c08b-4856-8605-7dcd31332033.png">
+___
 
 ___
 
