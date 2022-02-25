@@ -1,7 +1,7 @@
 # Walmart-Retail
 TABLEAU Project : The role is to find trend and data from different region and states as well as showing the insight about profits, sales, discounts over different areas.
 ___
-`The Situation`: I have been hired by Walmart Retail, a retail giant based on the United States ***to dsign and build an executive level BI solution from ground zero***.
+`The Situation`: I have been hired by Walmart Retail, a retail giant based on the United States ***to design and build an executive level BI solution from ground zero***.
 ___
 `The Brief`: Here we are looking to find trend and data from different region and states as well as showing the insight about profits, sales, discounts over different areas for ***Walmart Retail***.
 ___
