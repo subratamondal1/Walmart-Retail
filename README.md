@@ -8,6 +8,10 @@ ___
 `The Objective`: 
 ### Use Tableau to create a dashboard which should include the following insights :->
 
+## The DASHBOARD
+![Walmart Retail Dashboard](https://user-images.githubusercontent.com/60319087/154795659-715dd70e-67e5-4132-8031-beb7a5c5db13.png)
+
+___
 ```
 Show the trend of state-wise profit.
 Show the distribution of average profit by states.
@@ -45,8 +49,4 @@ Show regional quarterly average profit.
 
 ___
 
-## The DASHBOARD
-![Walmart Retail Dashboard](https://user-images.githubusercontent.com/60319087/154795659-715dd70e-67e5-4132-8031-beb7a5c5db13.png)
-
-___
 
